@@ -1,0 +1,40 @@
+/* Áp dụng cho tất cả nội dung */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    font-size: 50px;
+    color: blueviolet;
+    background-color: azure;
+    border: 0.5px solid aqua;
+    border-width: 0.5;
+}
+/* Áp dụng cho nhiều phần khác nhau */
+.description{
+text-align: justify;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 1px black solid
+}
+
+.external{
+    color: chocolate;
+    font-weight: 600;
+}
+
+.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.textlast{
+    font-size: 15px;
+    line-height: 0.1cm;
+    text-align-last: right;
+}
