@@ -1,0 +1,85 @@
+/* Áp dụng cho Tất cả */
+*{
+    background-color: #00257f;
+}
+
+/* Áp dụng cho từng phần */
+.header{
+    color: #fff;
+    display: block;
+    font-family: Josefin Slab;
+    font-weight:700;
+    font-size: 2em;
+    text-align: center
+}
+
+.main{
+    div{
+        box-sizing: border-box;
+        margin: 8px 8px 8px 8px;
+    }
+    background-color: #fff;
+    width: 280px;
+    height: 585.479px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+ .title{
+    width: 280px;
+    height: 96px;
+    margin: 32px 0 32px 0;
+    background-color: #fff;
+    color: #00257f;
+    font-family:Josefin Slab;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: left; 
+ }
+
+ .picture{
+    width: 100%;
+    display: block
+ }
+ 
+ .date{
+    width: 280px;
+    height: 16.6667px;
+    margin: 13px 0 13px 0;
+    background-color: #fff;
+    font-family:PT Serif;
+    font-size: 12.8px;
+    text-decoration: none solid;
+    word-spacing: 0px;
+   
+ }
+ .excerpt{
+    width: 280px;
+    height: 170.667px;
+    margin: 16px 0 16px 0;
+    background-color: #fff; 
+    font-family: PT Serif;
+    font-size: 16px;
+    text-decoration: none solid rgb(85, 85, 85);
+    word-spacing: 0px;
+    background-color: #fff; 
+
+ }
+ .ReadMore{
+    background-color: #fff;
+    width: auto;
+    height: auto;
+    font-family: Josefin Slab;
+    font-weight: 700;
+    font-size: 13.913px;
+    font-weight: 700;
+    color: #001D66;
+    text-decoration: none;
+}
+
+
+
+
+
+
