@@ -8,10 +8,11 @@
     background-color: azure;
     border: 0.5px solid aqua;
     border-width: 0.5;
+    padding: 20px 10px 10px;
 }
 /* Áp dụng cho nhiều phần khác nhau */
 .description{
-text-align: justify;
+    text-align: left;
 }
 .picture {
     display: block;

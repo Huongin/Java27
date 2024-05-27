@@ -1,0 +1,29 @@
+/* Áp dụng cho TẤT CẢ NỘI DUNG */
+*{
+    text-decoration: underline;
+}
+.heading{ 
+    font-size: 50px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+/* Áp dụng cho nhiều bộ chọn khác nhau */
+.description{
+    text-decoration: overline;
+    color: red;
+
+}
+.external-link{
+    text-decoration: overline;
+    color: pink;
+}
+.container>.avatar{
+    width: 200px;
+
+}
+/* Áp dụng cho phần tử có CẢ HAI class */
+.heading.Special-heading{
+    color: blue;
+}

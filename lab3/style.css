@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    /* Thay đổi cách hiển thị (box model) */
+    display: block;
+    
+    /*màu nền*/
+    background-color: green;
+    
+    /* Content Box */
+    width: 300px; /*chiều rộng*/
+    height: 300px; /*chiều cao*/
+
+    /* padding Box */
+    padding: 30px; /*Tính vào kích thước phần tử*/
+
+    /* Border Box */
+    border: 5px solid brown;
+    border-radius: 30px; /*bo viền khung*/
+
+    /* Margin */
+    margin-bottom: 50px ;/*khoảng cách các nội dung không tính vào kích thước*/
+
+    background-image: url(https://qpdesign.vn/assets/2016/01/Goc-chet-01-1439605847_660x0.jpg);
+}
